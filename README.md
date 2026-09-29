@@ -39,7 +39,7 @@ Added an SG90 servo to rotate the ultrasonic sensor and scan across 180°.
 # What I Learned
 - Using the Servo.h library
 - Servo.attach()
-- Servo.write()`
+- Servo.write()
 - Using for loops to sweep the servo
 - Combining servo angle with ultrasonic distance
 - Displaying angle and distance through Serial Monitor
@@ -49,7 +49,6 @@ Successfully created a servo-based scanning system that measures distance at dif
 
 # Evidence
 - Radar setup photo
-- Serial Monitor photo
 - Demonstration video
 
 # Next
